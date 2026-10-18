@@ -1,4 +1,4 @@
-const facts = [["Focus", "Web development"], ["Also into", "UI design"], ["Currently", "Building and leveling up"]];
+const facts = [["Focus", "Web and App development"], ["Also into", "UI design"], ["Currently", "Building and leveling up"]];
 
 const petals = [0, 45, 90, 135, 180, 225, 270, 315];
 const dots = [[0, -8], [7, -4], [8, 4], [0, 9], [-8, 4], [-7, -4], [0, 0]];

@@ -2,9 +2,9 @@ import { useRef, useState } from "react";
 
 // Add a real photo with photo: "/testimonials/name.webp" (put the file in public/testimonials/)
 const testimonials = [
-  { quote: "Atiqua turned our rough idea into a site we're proud of, and she kept us in the loop the whole way.", name: "Client name", role: "Role, Company", rating: 5, photo: "" },
-  { quote: "Fast, clear communication and a clean result. The site loads quickly and looks great on every device.", name: "Client name", role: "Role, Company", rating: 4, photo: "" },
-  { quote: "She cares about the details most people skip. Working together felt easy from the first call to launch day.", name: "Client name", role: "Role, Company", rating: 5, photo: "" },
+  { quote: "Atiqua turned our rough idea into a site we're proud of, and she kept us in the loop the whole way.", name: "Avantika Tripathi", rating: 5, photo: "" },
+  { quote: "Fast, clear communication and a clean result. The site loads quickly and looks great on every device.", name: "Pakeeza Internet Services", rating: 4, photo: "" },
+  { quote: "She cares about the details most people skip. Working together felt easy from the first call to launch day.", name: "Maa Laxmi Constructions", rating: 5, photo: "" },
 ];
 
 const star = "M12 2.5l2.9 6.1 6.6.8-4.9 4.6 1.3 6.6L12 17.3 6.1 20.6l1.3-6.6L2.5 9.4l6.6-.8L12 2.5Z";
