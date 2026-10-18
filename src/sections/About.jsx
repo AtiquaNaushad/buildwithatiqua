@@ -41,14 +41,15 @@ export default function About() {
         <div className="about-grid">
           <div className="portrait-wrap">
           
-<div className="portrait" role="img" aria-label="Portrait of Atiqua">
+<div className="portrait">
   <img
-    src="./public/projects/atiqua-about1.png"
-    alt="Atiqua"
+    src="/projects/atiqua-about1.png"
+    alt="Portrait of Atiqua"
     style={{
       width: "100%",
       height: "100%",
       objectFit: "cover",
+      objectPosition: "center top",
       display: "block",
     }}
   />
