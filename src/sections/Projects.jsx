@@ -12,7 +12,7 @@ const projects = [
     title: "Maa Laxmi Constructions: Business Website",
     desc: "A website for a construction and real estate company that builds independent houses, residential and commercial projects, and develops plots. The page puts the company's services up front, with clear Call Now and Enquire Now buttons and a floating WhatsApp shortcut, so visitors can reach the team in one tap.",
     chips: ["Business website", "Responsive design", "UI design"],
-    link: "https://maalaxmiconstructions.com/",
+    link: "https://maalaxmicontructions.com/",
     domain: "maalaxmiconstructions.com",
     image: "/projects/maalaxmi.webp", w: 1200, h: 556,
     alt: "Maa Laxmi Constructions home page: Building Your Dreams With Trust",
