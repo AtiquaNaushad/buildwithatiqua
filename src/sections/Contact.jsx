@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const EMAIL = "your-email@example.com";
+const EMAIL = "atiquanaushad.com";
 const WHATSAPP = "91XXXXXXXXXX"; // country code + number, digits only
 
 const types = ["Website", "Web app", "UI design", "Redesign", "Something else"];
