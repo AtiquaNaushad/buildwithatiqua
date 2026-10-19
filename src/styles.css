@@ -533,3 +533,10 @@ section.drip-section { padding: clamp(2.5rem, 5vw, 4rem) 0; }
 footer p { margin: 0 auto; max-width: none; }
 .foot-main { font-size: 1.1rem; }
 .foot-sub { margin-top: 0.25rem; font-size: 0.9rem; opacity: 0.8; }
+
+
+
+
+/* ---------- Contact: WhatsApp status message ---------- */
+.form-ok { margin: 0; font-size: 0.95rem; max-width: none; }
+.form-ok a { font-weight: 500; }

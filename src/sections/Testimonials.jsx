@@ -31,7 +31,7 @@ export default function Testimonials() {
   };
 
   return (
-    <section className="block band">
+    <section className="block">
       <div className="wrap">
         <h2>They Said It</h2>
       </div>

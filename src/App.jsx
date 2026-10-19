@@ -3,6 +3,7 @@ import Nav from "./components/Nav.jsx";
 import Hero from "./components/Hero.jsx";
 import Footer from "./components/Footer.jsx";
 import LazySection from "./components/LazySection.jsx";
+import useCleanAnchors from "./useCleanAnchors.js";
 
 // Each section is its own JS chunk, fetched only when scrolled near.
 const sections = [
@@ -16,6 +17,7 @@ const sections = [
 ];
 
 export default function App() {
+  useCleanAnchors();
   return (
     <>
       <Nav />
